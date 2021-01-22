@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const instance = axios.create({
-    baseURL: 'http://www.lenvendo.ru/api/js-test-task/',
+    baseURL: 'https://www.lenvendo.ru/api/js-test-task/',
     timeout: 10000,
 });
 
