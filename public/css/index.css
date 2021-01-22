@@ -1,0 +1,12 @@
+.container {
+    max-width: 1500px;
+    margin: 0 auto;
+    padding: 15px;
+}
+
+.form {
+    display: flex;
+    align-items: center;
+    grid-column-end: -1;
+    grid-column-start: 1;
+}
