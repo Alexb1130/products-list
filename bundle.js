@@ -2453,7 +2453,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 const instance = axios__WEBPACK_IMPORTED_MODULE_0___default().create({
-    baseURL: 'http://www.lenvendo.ru/api/js-test-task/',
+    baseURL: 'https://www.lenvendo.ru/api/js-test-task/',
     timeout: 10000,
 });
 
